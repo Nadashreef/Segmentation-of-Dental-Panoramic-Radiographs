@@ -1,0 +1,6 @@
+natsort
+tensorflow
+numpy
+scikit-learn
+PIL
+matplotlib
