@@ -4,3 +4,6 @@ numpy
 scikit-learn
 PIL
 matplotlib
+Pathlib
+os
+sys
