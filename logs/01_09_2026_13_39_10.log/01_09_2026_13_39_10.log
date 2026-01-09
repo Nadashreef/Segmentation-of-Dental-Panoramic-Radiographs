@@ -1,0 +1,23 @@
+[2026-01-09 13:39:25,163] 24 root - INFO - Images reading is completed
+[2026-01-09 13:39:27,188] 40 root - INFO - masks Reading is completed
+[2026-01-09 13:39:27,220] 19 root - INFO - Data splitting is completed
+[2026-01-09 13:39:27,269] 28 root - INFO - Convolution layers have been successfully built.
+[2026-01-09 13:39:27,269] 39 root - INFO - Encoder building is completed
+[2026-01-09 13:39:27,287] 28 root - INFO - Convolution layers have been successfully built.
+[2026-01-09 13:39:27,287] 39 root - INFO - Encoder building is completed
+[2026-01-09 13:39:27,303] 28 root - INFO - Convolution layers have been successfully built.
+[2026-01-09 13:39:27,319] 39 root - INFO - Encoder building is completed
+[2026-01-09 13:39:27,330] 28 root - INFO - Convolution layers have been successfully built.
+[2026-01-09 13:39:27,335] 39 root - INFO - Encoder building is completed
+[2026-01-09 13:39:27,354] 28 root - INFO - Convolution layers have been successfully built.
+[2026-01-09 13:39:27,403] 28 root - INFO - Convolution layers have been successfully built.
+[2026-01-09 13:39:27,403] 52 root - INFO - Decoder building is completed
+[2026-01-09 13:39:27,446] 28 root - INFO - Convolution layers have been successfully built.
+[2026-01-09 13:39:27,446] 52 root - INFO - Decoder building is completed
+[2026-01-09 13:39:27,479] 28 root - INFO - Convolution layers have been successfully built.
+[2026-01-09 13:39:27,479] 52 root - INFO - Decoder building is completed
+[2026-01-09 13:39:27,511] 28 root - INFO - Convolution layers have been successfully built.
+[2026-01-09 13:39:27,511] 52 root - INFO - Decoder building is completed
+[2026-01-09 13:39:27,519] 85 root - INFO - Unet model building is completed
+[2026-01-09 13:39:27,528] 98 root - INFO - Model compiling is completed
+[2026-01-09 13:47:47,941] 112 root - INFO - Model training is completed
